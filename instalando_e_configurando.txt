@@ -1,0 +1,3 @@
+Instalação: Para instalar o git tem que ir até o site: https//git-scm.com/downloads escolher o sistema operacional e baixar. Dependendo do sistema operacional o git ja estará disponivel.
+
+Configuração: Duas configurações que são básicas no git é o "user.name" e o "user.email". No git basta apenas utilizar o comando " git config --global user.name 'Nome aqui' " para o nome, e para o email "git config --global user.email 'email aqui' "

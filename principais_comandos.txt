@@ -1,0 +1,41 @@
+Principais comandos do git:
+
+1.Git clone
+Git clone baixa o código fonte existente de um repósitorio remoto,e salva uma cópia no computador.
+
+2.Git branch
+São como ramificações, que faz com que vários desenvolvedores consigam trabalhar no mesmo projeto em paralelo.
+
+3.Git checkout
+O git checkout troca de uma branch para outra. Também pode ser usado para fazer checkout de arquivos e commits
+
+4.Git status
+O git status fornece as informações sobre a branch atual. como por exemplo:
+
+. Se a branch em que está no momento está atualizada
+
+. Se precisa de um commit, push ou pull de algo
+
+. Se os arquivos estão em fase de stage, fora dessa fase ou se não estão sendo rastreados
+
+. Se arquivos foram criados, modificados ou excluidos
+
+5.Git add
+
+Git add inclui as alterações de um ou vários arquivos em nosso próximo commit
+
+6.Git commit
+O git commit defini um ponto de verificação no processo de desenvolvimento de algum projeto, também salvando as alterações feitas
+
+7.Git push
+Git push faz o upload dos commits para o repositório remoto
+
+8.Git pull
+O comando git pull é usado para obter as atualizações de um repositório remoto
+
+9.Git revert
+Git revert é a maneira de desfazer as alterações feitas de um commit
+
+10.Git merge
+Git merge integra os recursos e todos os seus commits na branch de desenvolvimento ou na branch principal
+

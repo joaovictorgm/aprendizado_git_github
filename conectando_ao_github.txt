@@ -1,0 +1,1 @@
+Para levantar um código para o github usa no terminal o comando "git remote add origin master (link do repositório) "isso vai linkar o projeto com o repositório , e para subir o projeto em si usa o comando "git push origin master"

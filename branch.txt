@@ -1,0 +1,3 @@
+Git branch
+
+O Git branch é um comando usado para realizar ramificações no código. Essas operações podem se criar, listar, renomear ou excluir
